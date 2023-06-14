@@ -1,1 +1,2 @@
-fq
+config:
+  info: "master"
